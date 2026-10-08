@@ -1,0 +1,6 @@
+{
+  "name": "Dệt sắc Mông Hoa",
+  "description": "Ứng dụng tương tác khám phá văn hóa, dệt may thổ cẩm, hoa văn và trang phục truyền thống của 5 nhóm người Mông Việt Nam cùng Kút Yệu và A Vừ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
